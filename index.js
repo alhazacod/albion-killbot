@@ -8,7 +8,7 @@ let lastVictim
 
 let guild;
 
-client.login("NjMyNzMxOTkxNjQ5MDI2MDY4.XaJ1ew.5k1c2J5uhi5NbWSE-0AbeEzubFQ");
+client.login("NjMyNzMxOTkxNjQ5MDI2MDY4.XaKiCA.s02GkprG8Eo9Se0C0FQAXXmBLhM");
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
